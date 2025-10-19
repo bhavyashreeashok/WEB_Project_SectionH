@@ -1,0 +1,20 @@
+h1{
+      
+          background-color: black;
+          color: beige;
+          font-size: 75px;
+         
+        }
+
+    body{
+    background: linear-gradient(to right, rgb(197, 131, 218), rgb(197, 224, 135));
+}
+nav{
+   background-color: cornsilk;
+    font-size: 25px;
+    
+}
+nav a{
+    margin-right: 25px;
+    font-style: italic;
+}
